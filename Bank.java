@@ -1,5 +1,5 @@
 import java.util.*;
-
+//bank management system
 class SavingAccount
 {
 	Scanner sc=new Scanner(System.in);	
