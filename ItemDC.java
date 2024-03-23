@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 class ItemDC
 {
-	//BufferedReader b1=new BufferedReader(new InputStreamReader(System.in));
 	int itemno;
 	String description;
 	int currentstocklevel, minimumlevel;
