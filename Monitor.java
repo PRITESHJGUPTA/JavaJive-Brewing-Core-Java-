@@ -1,4 +1,4 @@
-
+//instead of if else you can 
 import java.util.*;
 import java.io.*;
 class Monitor
